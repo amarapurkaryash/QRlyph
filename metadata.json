@@ -1,0 +1,8 @@
+{
+  "name": "QRlyph – Wi-Fi QR Code Generator & Scanner",
+  "description": "Generate, scan, and share Wi-Fi QR codes instantly. This app works offline after the first load, ensuring your privacy by processing all data locally on your device.",
+  "requestFramePermissions": [
+    "camera"
+  ],
+  "prompt": ""
+}
